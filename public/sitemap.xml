@@ -4,6 +4,11 @@
   
   <url>
     <loc>/post/2018-03-16-why-i-made-this-site/</loc>
+    <lastmod>2018-03-16T10:38:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-03-16-why-i-made-this-site/</loc>
   </url>
   
   <url>
@@ -13,21 +18,19 @@
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2018-03-16T10:38:05-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2018-03-16T10:38:05-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/2018-03-16-why-i-made-this-site/</loc>
   </url>
   
 </urlset>
