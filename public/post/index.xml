@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SEAN&#39;S FOOD BLOG!!</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on SEAN&#39;S FOOD BLOG!!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comments example</title>
+      <link>/post/comments-example/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comments-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primis eget imperdiet lorem</title>
+      <link>/post/post1/</link>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ante mattis interdum dolor</title>
+      <link>/post/post2/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tempus sed nulla imperdiet</title>
+      <link>/post/post5/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odio magna sed consectetur</title>
+      <link>/post/post4/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
+    </item>
+    
+    <item>
+      <title>Augue lorem primis vestibulum</title>
+      <link>/post/post3/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primis eget imperdiet lorem</title>
+      <link>/post/post6/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ante mattis interdum dolor</title>
+      <link>/post/post7/</link>
+      <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augue lorem primis vestibulum</title>
+      <link>/post/post8/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first post</title>
+      <link>/post/post/</link>
+      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
