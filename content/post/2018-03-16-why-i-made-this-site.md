@@ -1,5 +1,5 @@
 ---
-title: "2018 03 16 Why I Made This Site"
+title: "Why I Made This Site"
 date: 2018-03-16T10:38:05-07:00
 draft: true
 ---
