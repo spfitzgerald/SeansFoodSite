@@ -6,108 +6,26 @@
     <description>Recent content on SEAN&#39;S FOOD BLOG!!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Mar 2018 10:38:05 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2018 03 16 Why I Made This Site</title>
+      <title></title>
       <link>/post/2018-03-16-why-i-made-this-site/</link>
-      <pubDate>Fri, 16 Mar 2018 10:38:05 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-03-16-why-i-made-this-site/</guid>
+      <description>Why I Made This Sitecode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+    <item>
+      <title>Why I Made This Site</title>
+      <link>/post/2018-03-16-why-i-made-this-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-03-16-why-i-made-this-site/</guid>
       <description>The motivation for making this website came from a workshop I attended about the importance of creating your own personal website for professional purposes. I don&amp;rsquo;t really want one of those yet, but I did want to learn how to make a website using R blogdown. As such, I figured the best way to motivate myself to learn the skills required was to do something I was really passionate about. And God knows I LOVE to eat!</description>
-    </item>
-    
-    <item>
-      <title>Comments example</title>
-      <link>/post/comments-example/</link>
-      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/comments-example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Primis eget imperdiet lorem</title>
-      <link>/post/post1/</link>
-      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ante mattis interdum dolor</title>
-      <link>/post/post2/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tempus sed nulla imperdiet</title>
-      <link>/post/post5/</link>
-      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Odio magna sed consectetur</title>
-      <link>/post/post4/</link>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
-    </item>
-    
-    <item>
-      <title>Augue lorem primis vestibulum</title>
-      <link>/post/post3/</link>
-      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Primis eget imperdiet lorem</title>
-      <link>/post/post6/</link>
-      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ante mattis interdum dolor</title>
-      <link>/post/post7/</link>
-      <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Augue lorem primis vestibulum</title>
-      <link>/post/post8/</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>first post</title>
-      <link>/post/post/</link>
-      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/post/post/</guid>
-      <description></description>
     </item>
     
   </channel>
