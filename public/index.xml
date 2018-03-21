@@ -12,23 +12,31 @@
     
     
     <item>
+      <title>The Shop Kitchen</title>
+      <link>/post/2018-03-21-the-shop-kitchen/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-03-21-the-shop-kitchen/</guid>
+      <description>Test review for The Shop:
+WIWI formula:
+WIWI = 0.5(Taste) + 0.35(Value) + 0.15(Service &amp;amp; Atmosphere)
+WIWI: 7.55
+Taste: 9/10
+Value: 5.5 (up to 7*)/10
+Service and Atmosphere: 7.5/10
+As of March 21, 2018 The Shop offers a Groupon where you get $7 off a purchase of $20 - bumps the value up to 7!0.5*9 + 0.35*5.5 + 0.15*7.5## [1] 7.55The TUGBOAT (with Carnitas)
+</description>
+    </item>
+    
+    <item>
       <title>Why I Made This Site</title>
       <link>/post/2018-03-16-why-i-made-this-site/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-03-16-why-i-made-this-site/</guid>
       <description>Two simple reasons:
-1) I wanted to learn how to make a website using R blogdown.
-2) I wanted to make it fun for myself, so I wanted to do something I was really passionate about&amp;hellip; and God knows I LOVE to eat! So I&amp;rsquo;m developing a unique set of metrics for evaluating the places I eat, anywhere in the world I may be. The details of how I assess each restuarant are described in another post.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/post/2018-03-16-why-i-made-this-site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-03-16-why-i-made-this-site/</guid>
-      <description>Why I Made This Sitecode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+I wanted to learn how to make a website using R blogdown.
+I wanted to make it fun for myself, so I wanted to do something I was really passionate about… and God knows I LOVE to eat! So I’m developing a unique set of metrics for evaluating the places I eat, anywhere in the world I may be. The details of how I assess each restuarant are described in another post.</description>
     </item>
     
   </channel>

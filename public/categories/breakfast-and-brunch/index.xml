@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on SEAN&#39;S FOOD BLOG!!</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on SEAN&#39;S FOOD BLOG!!</description>
+    <title>Breakfast and Brunch on SEAN&#39;S FOOD BLOG!!</title>
+    <link>/categories/breakfast-and-brunch/</link>
+    <description>Recent content in Breakfast and Brunch on SEAN&#39;S FOOD BLOG!!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/breakfast-and-brunch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,17 +26,6 @@ Value: 5.5 (up to 7*)/10
 Service and Atmosphere: 7.5/10
 As of March 21, 2018 The Shop offers a Groupon where you get $7 off a purchase of $20 - bumps the value up to 7!0.5*9 + 0.35*5.5 + 0.15*7.5## [1] 7.55The TUGBOAT (with Carnitas)
 </description>
-    </item>
-    
-    <item>
-      <title>Why I Made This Site</title>
-      <link>/post/2018-03-16-why-i-made-this-site/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-03-16-why-i-made-this-site/</guid>
-      <description>Two simple reasons:
-I wanted to learn how to make a website using R blogdown.
-I wanted to make it fun for myself, so I wanted to do something I was really passionate about… and God knows I LOVE to eat! So I’m developing a unique set of metrics for evaluating the places I eat, anywhere in the world I may be. The details of how I assess each restuarant are described in another post.</description>
     </item>
     
   </channel>

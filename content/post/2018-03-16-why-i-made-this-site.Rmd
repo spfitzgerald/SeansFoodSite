@@ -2,6 +2,8 @@
 title: Why I Made This Site
 author: Sean Fitzgerald
 date: '2018-03-21'
+categories:
+  - General
 draft: yes
 ---
 

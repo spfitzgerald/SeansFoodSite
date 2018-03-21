@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on SEAN&#39;S FOOD BLOG!!</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on SEAN&#39;S FOOD BLOG!!</description>
+    <title>General on SEAN&#39;S FOOD BLOG!!</title>
+    <link>/categories/general/</link>
+    <description>Recent content in General on SEAN&#39;S FOOD BLOG!!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Shop Kitchen</title>
-      <link>/post/2018-03-21-the-shop-kitchen/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-03-21-the-shop-kitchen/</guid>
-      <description>Test review for The Shop:
-WIWI formula:
-WIWI = 0.5(Taste) + 0.35(Value) + 0.15(Service &amp;amp; Atmosphere)
-WIWI: 7.55
-Taste: 9/10
-Value: 5.5 (up to 7*)/10
-Service and Atmosphere: 7.5/10
-As of March 21, 2018 The Shop offers a Groupon where you get $7 off a purchase of $20 - bumps the value up to 7!0.5*9 + 0.35*5.5 + 0.15*7.5## [1] 7.55The TUGBOAT (with Carnitas)
-</description>
-    </item>
     
     <item>
       <title>Why I Made This Site</title>

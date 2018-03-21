@@ -1,0 +1,30 @@
+---
+title: The Shop Kitchen
+author: SPF
+date: '2018-03-21'
+categories:
+  - Breakfast and Brunch
+draft: yes
+---
+
+Test review for The Shop:
+
+WIWI formula: 
+
+*WIWI* = 0.5(*Taste*) + 0.35(*Value*) + 0.15(*Service & Atmosphere*)
+
+WIWI: 7.55 
+
+**Taste:** 9/10
+
+**Value:** 5.5 (up to 7*)/10
+
+**Service and Atmosphere:** 7.5/10
+
+* As of March 21, 2018 The Shop offers a Groupon where you get $7 off a purchase of $20 - bumps the value up to 7!
+
+```{r}
+0.5*9 + 0.35*5.5 + 0.15*7.5
+
+```
+![The TUGBOAT (with Carnitas)](/static/IMG_1087.JPG)

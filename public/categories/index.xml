@@ -6,9 +6,28 @@
     <description>Recent content in Categories on SEAN&#39;S FOOD BLOG!!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Breakfast and Brunch</title>
+      <link>/categories/breakfast-and-brunch/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/breakfast-and-brunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>/categories/general/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/general/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
