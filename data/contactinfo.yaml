@@ -1,9 +1,3 @@
 contactformaction: 'post-action'
 
-address:
-- line: '1234 Somewhere Road #87257'
-- line: 'Nashville, TN 00000-0000'
-
-phone: '(800) 000-0000'
-
-email: 'someone@untitled.tld'
+email: 'SeansFoodMail@gmail.com'
