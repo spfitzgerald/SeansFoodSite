@@ -6,10 +6,21 @@
     <description>Recent content in Posts on SEAN&#39;S FOOD BLOG!!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why I Made This Site</title>
+      <link>/post/2018-03-16-why-i-made-this-site/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-03-16-why-i-made-this-site/</guid>
+      <description>Two simple reasons:
+I wanted to learn how to build my own website from scratch using R blogdown.
+I wanted to make it fun for myself, so I wanted to do something I was really passionate about… and God knows I LOVE to eat! So I’m developing a unique set of metrics for evaluating the places I eat, anywhere in the world I may be. The details of how I assess each restuarant are described in another post.</description>
+    </item>
     
     <item>
       <title>The Shop Kitchen</title>
@@ -23,17 +34,6 @@ Taste: 9/10
 Value: 5.5 (up to 7*)/10
 Service and Atmosphere: 7.5/10
 As of March 21, 2018 The Shop offers a Groupon where you get $7 off a purchase of $20 - bumps the value up to 7!What we orderedThe “French Melt” menu description: “Sticky, but worth it. Grilled french toast sandwich, seared ham, cheddar, and topped with real maple syrup”</description>
-    </item>
-    
-    <item>
-      <title>Why I Made This Site</title>
-      <link>/post/2018-03-16-why-i-made-this-site/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-03-16-why-i-made-this-site/</guid>
-      <description>Two simple reasons:
-I wanted to learn how to build my own website from scratch using R blogdown.
-I wanted to make it fun for myself, so I wanted to do something I was really passionate about… and God knows I LOVE to eat! So I’m developing a unique set of metrics for evaluating the places I eat, anywhere in the world I may be. The details of how I assess each restuarant are described in another post.</description>
     </item>
     
   </channel>
