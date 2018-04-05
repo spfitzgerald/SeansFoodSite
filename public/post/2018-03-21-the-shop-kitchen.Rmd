@@ -12,9 +12,9 @@ weight: 3
 
 WIWI formula:   *WIWI* = 0.5(*Taste*) + 0.35(*Value*) + 0.15(*Service & Atmosphere*)
 
-**WIWI:** 7.55 
+**WIWI:** 7.3
 
-**Taste:** 9/10
+**Taste:** 8.5/10
 
 **Value:** 5.5 (up to 7*)/10
 
@@ -23,7 +23,14 @@ WIWI formula:   *WIWI* = 0.5(*Taste*) + 0.35(*Value*) + 0.15(*Service & Atmosphe
 * As of March 21, 2018 The Shop offers a Groupon where you get $7 off a purchase of $20 - bumps the value up to 7!
 
 ```{r, include=FALSE}
-0.5*9 + 0.35*5.5 + 0.15*7.5
+wiwi = vector(length = 1)
+WIWI <- function(taste, value, service) {
+  wiwi <- 0.5*taste + 0.35*value + 0.15*service
+  return(wiwi)
+}
+
+WIWI(8.5, 5.5, 7.5)
+0.5*8.5 + 0.35*5.5 + 0.15*7.5
 
 #Notes: you had to resize the images in paint for lack of a better option.  This was supposed to work:
 # ![French Melt](/IMG_1087.JPG){ width = 50% }, but that made it REALLY small.  I think it's worth trying again next time though.
