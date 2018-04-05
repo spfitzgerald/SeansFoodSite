@@ -8,19 +8,11 @@ categories:
 weight: 3
 ---
 
-### WIWI score: 7.55
-
-WIWI formula for special dishes:   *WIWI* = 0.65(*Taste*) + 0.35(*Value*)
-
-I still provide service and atmosphere, but it's not factored into the scoring when doing a specific dish review.  It's all about that grubbbbb
-
-**WIWI:** 7.925
+### WIWI score: 7.925
 
 **Taste:** 9.5/10
 
 **Value:** 5/10
-
-**Service and Atmosphere:** 6.5/10
 
 
 ```{r, include=FALSE}

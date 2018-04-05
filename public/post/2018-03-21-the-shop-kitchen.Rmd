@@ -8,11 +8,7 @@ categories:
 weight: 3
 ---
 
-### Test review for The Shop
-
-WIWI formula:   *WIWI* = 0.5(*Taste*) + 0.35(*Value*) + 0.15(*Service & Atmosphere*)
-
-**WIWI:** 7.3
+### WIWI score: 7.3
 
 **Taste:** 8.5/10
 

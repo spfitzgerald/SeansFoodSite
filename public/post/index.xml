@@ -28,7 +28,7 @@ I wanted to learn how to build my own website from scratch using R blogdown.
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-03-21-my-scoring-metrics-wiwi/</guid>
-      <description>Going to describe scoring procedure…</description>
+      <description>What is WIWI??WIWI stands for “Was It Worth It?”. The biggest problem with Yelp, Tripadvisor, etc. is that people might give a restaurant with good food 4-5 stars, but that restaurant may be charging $30 a plate… If I could get the same quality food elsewhere for $15 a plate, obviously I would do so. Also I know they try to account for that with their $-$$$$ scale, but I find there’s still a huge range encapsulated in “$$” for example.</description>
     </item>
     
     <item>
@@ -37,14 +37,10 @@ I wanted to learn how to build my own website from scratch using R blogdown.
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-04-05-specific-dish-paxti-s-spinach-pesto-deep-dish-pizza/</guid>
-      <description>WIWI score: 7.55WIWI formula for special dishes: WIWI = 0.65(Taste) + 0.35(Value)
-I still provide service and atmosphere, but it’s not factored into the scoring when doing a specific dish review. It’s all about that grubbbbb
-WIWI: 7.925
-Taste: 9.5/10
+      <description>WIWI score: 7.925Taste: 9.5/10
 Value: 5/10
-Service and Atmosphere: 6.5/10
 The BreakdownSpinach Pesto Pizza Menu Description: “Fresh spinach, basil-garlic-Parmesan pesto, homemade tomato sauce.”
-My Take: I’ve eaten deep dish pizza twice in Chicago.</description>
+My Take: I’ve eaten deep dish pizza twice in Chicago. Once at Lou Maltini’s, and once at another classic Chicago-style deep dish place (the name escapes me). Good thing no one outside my friend circle reads this website, because otherwise I’d have a lot of people really mad at me - because this Spinach Pesto deep dish from Paxti’s in Santa Barbara kicks the crap out of deep dish from the Motherland.</description>
     </item>
     
     <item>
@@ -53,12 +49,11 @@ My Take: I’ve eaten deep dish pizza twice in Chicago.</description>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-03-21-the-shop-kitchen/</guid>
-      <description>Test review for The ShopWIWI formula: WIWI = 0.5(Taste) + 0.35(Value) + 0.15(Service &amp;amp; Atmosphere)
-WIWI: 7.3
-Taste: 8.5/10
+      <description>WIWI score: 7.3Taste: 8.5/10
 Value: 5.5 (up to 7*)/10
 Service and Atmosphere: 7.5/10
-As of March 21, 2018 The Shop offers a Groupon where you get $7 off a purchase of $20 - bumps the value up to 7!What we orderedThe “French Melt” menu description: “Sticky, but worth it. Grilled french toast sandwich, seared ham, cheddar, and topped with real maple syrup”</description>
+As of March 21, 2018 The Shop offers a Groupon where you get $7 off a purchase of $20 - bumps the value up to 7!What we orderedThe “French Melt” menu description: “Sticky, but worth it. Grilled french toast sandwich, seared ham, cheddar, and topped with real maple syrup”
+My take: Uhhh, yeah a freaking cheesy breakfast sandwich on FRENCH TOAST with syrup!</description>
     </item>
     
   </channel>
