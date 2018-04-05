@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>My Scoring Process (WIWI)</title>
-      <link>/post/2018-03-21-my-scoring-metrics-wiwi/</link>
-      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-03-21-my-scoring-metrics-wiwi/</guid>
-      <description>What is WIWI??WIWI stands for “Was It Worth It?”. The biggest problem with Yelp, Tripadvisor, etc. is that people might give a restaurant with good food 4-5 stars, but that restaurant may be charging $30 a plate… If I could get the same quality food elsewhere for $15 a plate, obviously I would do so. Also I know they try to account for that with their $-$$$$ scale, but I find there’s still a huge range encapsulated in “$$” for example.</description>
-    </item>
-    
-    <item>
       <title>Why I Made This Site</title>
       <link>/post/2018-03-16-why-i-made-this-site/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
@@ -29,6 +20,15 @@
       <description>Two simple reasons:
 I wanted to learn how to build my own website from scratch using R blogdown.
 I wanted to make it fun for myself, so I wanted to do something I was really passionate about… and God knows I LOVE to eat! So I’m developing a unique set of metrics for evaluating the places I eat, anywhere in the world I may be. The details of how I assess each restuarant are described in another post.</description>
+    </item>
+    
+    <item>
+      <title>My Scoring Process (WIWI)</title>
+      <link>/post/2018-03-21-my-scoring-metrics-wiwi/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-03-21-my-scoring-metrics-wiwi/</guid>
+      <description>What is WIWI??WIWI stands for “Was It Worth It?”. The biggest problem with Yelp, Tripadvisor, etc. is that people might give a restaurant with good food 4-5 stars, but that restaurant may be charging $30 a plate… If I could get the same quality food elsewhere for $15 a plate, obviously I would do so. Also I know they try to account for that with their $-$$$$ scale, but I find there’s still a huge range encapsulated in “$$” for example.</description>
     </item>
     
   </channel>
