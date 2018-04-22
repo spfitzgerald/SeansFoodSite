@@ -1,5 +1,5 @@
 ---
-title: Eggslut (Downtown LA)
+title: Eggslut (Grand Central Market)
 author: SPF
 date: '2018-02-18'
 image: 'Eggslut_Reg_Farifax.JPG'
